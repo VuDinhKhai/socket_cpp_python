@@ -1,6 +1,6 @@
-Server : cpp va python 
-Client : cpp   
-Truyen va nhan text
-// Quy trinh chay\n
-Client : run socket_client.exe
-Server : run socket_server.exe
+Server : cpp va python <space><space>
+Client : cpp   <space><space>
+Truyen va nhan text<space><space>
+// Quy trinh chay<space><space>
+Client : run socket_client.exe<space><space>
+Server : run socket_server.exe<space><space>
