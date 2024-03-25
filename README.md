@@ -1,3 +1,3 @@
-server : cpp va python 
-client : cpp   
-truyen va nhan text
+Server : cpp va python 
+Client : cpp   
+Truyen va nhan text
